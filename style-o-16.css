@@ -11,12 +11,6 @@ Click on the large ball on the left to see the animation.
   transition-delay: 500ms;
 }
 
-/* 
-================================
-Your code here! 
-Make the small ball on the right roll to the right when the large one hits it.
-
-*/
 .anim:active .ball-two {
   left: 450px;
   transition-property: left;
